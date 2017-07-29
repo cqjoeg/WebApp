@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+# Maven #
+target/
+
+# IDEA #
+.settings/
+.idea/
+.metaata/
+*.iml
+
+# eclipse #
+.classpath/
+.project
+Servers/
